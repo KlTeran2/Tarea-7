@@ -21,7 +21,6 @@ Específicos
 
 INDUCTORES
 
-Principio de inducción electromagnética
 
 
 ![image](https://user-images.githubusercontent.com/117613738/218289460-197ca41e-0f6b-42e8-b186-afc18c93de27.png)
