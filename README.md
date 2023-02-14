@@ -109,8 +109,9 @@ TRANSFORMADORES
 
 ![image](https://user-images.githubusercontent.com/117613738/218292110-43cfa9e3-5f92-4502-9536-cc6e2b46a89c.png)
 
+4.- Video: https://youtu.be/WM-ZGx6c_UA
 
-4. Conclusiones
+5. Conclusiones
 
 - La inductancia es una medida de la capacidad de una bobina para establecer voltaje inducido como resultado
 de un cambio en su corriente.
@@ -123,6 +124,6 @@ al área de sección transversal del núcleo. Es inversamente proporcional a la 
 devanados, de la pérdida por histéresis en el núcleo, de las corrientes parásitas en el núcleo, y de la fuga
 de flujo.
 
-5. Bibliografría
+6. Bibliografría
 
 - Floyd, T. L. (2007). Principios de circuitos eléctricos (8a. Ed.). Pearson Educación.
